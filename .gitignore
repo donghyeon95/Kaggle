@@ -1,0 +1,7 @@
+data
+*.pt
+*.pth
+.ipynb_checkpoints
+wandb
+*.png
+*.txt
